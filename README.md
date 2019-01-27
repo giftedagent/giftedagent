@@ -46,7 +46,8 @@ GIFTED AGENTは「偏りを活かせる社会を創る」ために作られた�
 
 ## GIFTED AGENTへのコミットの考え方
 
-GIFTED AGENTの「偏りが活かせる社会を創る」を使命としている人で、正社員として雇用されている人にGIFTEDAGENTのアカウントが発行される。
+GIFTED AGENTの「偏りが活かせる社会を創る」を使命としている人で、
+積極的に活動をしている人にGIFTEDAGENTのアカウントが発行される。
 
 ## GIFTED SOCIATY
 
